@@ -1,0 +1,18 @@
+{
+    "name": "ClinicBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "5095b4b0-6579-11ed-8311-e73e618a9844",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\Rafael Ramos\\OneDrive - Soluciones Tecnológicas Overcast, S.A.P.I. de CV\\Documentos\\ClinicBot\\ClinicBot.bot",
+    "overrides": null
+}
